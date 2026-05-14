@@ -15,16 +15,16 @@ I'm a software engineer with around **3 years of experience**, working at the in
 
 ### 🧰 Tech Stack
 
-**Languages:** Python · SQL · JavaScript
-**AI/ML:** LangChain · LiteLLM · Instructor · sentence-transformers · MLflow
-**Backend:** FastAPI · Pydantic · REST APIs
-**Data:** Qdrant · Redis · PostgreSQL
-**Infra:** Docker · AWS (Bedrock, SageMaker, Lambda) · GitHub Actions
+- **Languages:** Python · SQL · JavaScript
+- **AI/ML:** LangChain · LiteLLM · Instructor · sentence-transformers · MLflow
+- **Backend:** FastAPI · Pydantic · REST APIs
+- **Data:** Qdrant · Redis · PostgreSQL
+- **Infra:** Docker · AWS (Bedrock, SageMaker, Lambda) · GitHub Actions
 
 ---
 
 ### 📫 Reach Me
 
 <!-- Add your links -->
-. LinkedIn — https://www.linkedin.com/in/deepaksiingh
-· Email — deepaksiingh20@gmail.com
+- LinkedIn — https://www.linkedin.com/in/deepaksiingh
+- Email — deepaksiingh20@gmail.com
