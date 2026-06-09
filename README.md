@@ -16,10 +16,10 @@ I'm a software engineer with around **3 years of experience**, working at the in
 ### 🧰 Tech Stack
 
 - **Languages:** Python · SQL · JavaScript
-- **AI/ML:** LangChain · LiteLLM · Instructor · sentence-transformers · MLflow
-- **Backend:** FastAPI · Pydantic · REST APIs
+- **AI/ML:** Smolagents · Llamaindex · LangChain · LiteLLM · Instructor · sentence-transformers · Agentic RAG · Multi-agents Systems
+- **Backend:** Flask · FastAPI · Pydantic · REST APIs
 - **Data:** Qdrant · Redis · PostgreSQL
-- **Infra:** Docker · AWS (Bedrock, SageMaker, Lambda) · GitHub Actions
+- **Infra:** Docker · AWS (Bedrock, SageMaker, Lambda, S3) · GitHub Actions · Kubernetes · Azure (ASR, Text-To-Speech)
 
 ---
 
